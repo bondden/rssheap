@@ -4,6 +4,8 @@
 // @include     http://www.rssheap.com/articles
 // @version     1
 // @grant       none
+// @downloadURL https://github.com/bondden/rssheap-userscript/raw/master/rssheap.user.js
+// @updateURL   https://github.com/bondden/rssheap-userscript/raw/master/rssheap.user.js
 // ==/UserScript==
 
 
